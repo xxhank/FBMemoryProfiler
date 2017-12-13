@@ -45,7 +45,7 @@
 
 - (BOOL)_canBecomeKeyWindow
 {
-  return NO;
+  return YES;
 }
 
 #endif // _INTERNAL_IMP_ENABLED
